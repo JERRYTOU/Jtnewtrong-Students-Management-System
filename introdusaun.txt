@@ -1,0 +1,12 @@
+It allows students to see their records by entering the standard and the roll.no.
+As per the admin privilages,
+Id: Admin Password: Admin
+In admin dashboard, you can
+1. Insert student records,
+2. Update student records,
+3. Deleting student records.
+I created MySql database in PHP My Admin and hence if you wish to use the code, create a database in my case,
+database name : sms
+Create two table one for student and one for admin. In my case the table names are,
+Admin,Student
+Also, I have used WAMP server and for using PHP My Admin, my username was root and password was"". In case you have a different one, edit it in the dbcon.phpfile.
